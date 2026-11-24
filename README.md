@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent AI Platform
+# 🤖 Zyntra - Multi-Agent AI Platform
 
 A production-ready **Multi-Agent AI Platform** built on the **MERN stack** with a **microservices architecture**, powered by **LangGraph**, **LangChain**, and **RAG** over a **Qdrant** vector database.
 
